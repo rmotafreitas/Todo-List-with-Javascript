@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-![Preview]()
+![Preview](https://github.com/rmotafreitas/Todo-List-with-Javascript/blob/main/image.png)
 
 #### View the website:
 
